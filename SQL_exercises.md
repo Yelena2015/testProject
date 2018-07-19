@@ -1,3 +1,1 @@
 # testProject
-
-TestUsage
