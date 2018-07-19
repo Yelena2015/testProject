@@ -1,2 +1,2 @@
-# testProject
-testUsage
+# 分享培训课课后习题
+自愿自主做题，提升自己
